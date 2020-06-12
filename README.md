@@ -1,0 +1,1 @@
+# disable-openshift-console
